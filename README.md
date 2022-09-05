@@ -20,3 +20,25 @@
 
 <h3>Link para vizualizar resultado: <a href="https://paulo-lacrei.surge.sh/">https://paulo-lacrei.surge.sh/</a></h3>
 
+<h3>Quer vizualizar o código?</h3>
+
+- Clone o repositório:
+
+``` bash
+$ git clone https://github.com/phcsilva056/desafio-frontend-lacrei.git
+```
+
+- Instale as dependências:
+``` bash
+$ npm install
+```
+
+- Agora pode iniciar:
+``` bash
+$ npm run start
+```
+
+- Ou abrir em seu editor (no meu caso foi VS Code):
+``` bash
+$ code .
+```
