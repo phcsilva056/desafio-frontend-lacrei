@@ -7,7 +7,7 @@
 <h3>Objetivo do Desafio</h3>
 
 <p>
-    Projeto tem como objetinho renderizar cards de cores diferentes, onde
+    Projeto tem como objetivo renderizar cards de cores diferentes, onde
     inicialmente os card não possuem cores fundo mas possuem bordas
     coloridas e depois de um determinado tempo a cor de fundo surgirá.
 </p>
