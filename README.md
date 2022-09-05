@@ -1,8 +1,19 @@
-<h1 align="center">Desafio Front End - <a src="https://www.atados.com.br/vaga/lacrei-no-front-end-4" target="blank">Lacrei</a></h3>
+<h1 align="center">
+    Desafio Front End - <a href="https://www.atados.com.br/vaga/lacrei-no-front-end-4" target="_blank">
+        Lacrei
+    </a>
+</h1>
 
-<h3 align="center">Objetivo do Desafio</h3>
-### Projeto tem como objetinho renderizar cards de cores diferentes, onde inicialmente os card não possuem cores fundo mas possuem bordas coloridas e depois de um determinado tempo a cor de fundo surgirá.
+<h3>Objetivo do Desafio</h3>
 
-### Ferramentas Utilizadas
-- React.JS
-- Styled-Components
+<p>
+    Projeto tem como objetinho renderizar cards de cores diferentes, onde
+    inicialmente os card não possuem cores fundo mas possuem bordas
+    coloridas e depois de um determinado tempo a cor de fundo surgirá.
+</p>
+
+<h3>Ferramentas Utilizadas</h3>
+<ul>
+    <li>React.JS</li>
+    <li>Styled-Components</li>
+</ul>
