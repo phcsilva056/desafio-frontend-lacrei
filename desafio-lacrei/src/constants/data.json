@@ -1,0 +1,17 @@
+[
+  {
+    "color": "#9a27ab",
+    "loadingColor": "#cc94d4",
+    "timer": 1200
+  },
+  {
+    "color": "#e61f60",
+    "loadingColor": "#f194b1",
+    "timer": 1800
+  },
+  {
+    "color": "#4ab14f",
+    "loadingColor": "#a5c8a5",
+    "timer": 600
+  }
+]
