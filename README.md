@@ -8,7 +8,7 @@
 
 <p>
     Projeto tem como objetivo renderizar cards de cores diferentes, onde
-    inicialmente os card não possuem cores fundo mas possuem bordas
+    inicialmente os cards não possuem cores de fundo mas possuem bordas
     coloridas e depois de um determinado tempo a cor de fundo surgirá.
 </p>
 
